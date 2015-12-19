@@ -1,0 +1,33 @@
+*.class
+*.properties
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+/src/main/resources/signer.properties
+# Maven
+log/
+target/
+
+# netbeans
+nbactions.xml
+
+/bin
+data/
+/meziy-init.yml
+
+ebils.java
