@@ -27,7 +27,4 @@ target/
 nbactions.xml
 
 /bin
-data/
-/meziy-init.yml
 
-ebils.java
